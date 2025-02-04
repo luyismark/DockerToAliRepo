@@ -18,4 +18,4 @@ homeassistant
 lscr.io/linuxserver/homeassistant:latest
 #homeassistant
 #lscr.io/linuxserver/homeassistant:latest
-amd64-hassio-supervisor:2023.10.1
+amd64-hassio-supervisor:
