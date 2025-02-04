@@ -15,3 +15,4 @@
 #neo4j:5.26.0-community-bullseye
 #liuxipo/itvall:amd64
 homeassistant
+lscr.io/linuxserver/homeassistant:latest
